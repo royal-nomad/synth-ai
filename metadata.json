@@ -1,0 +1,5 @@
+{
+  "name": "Syntho AI",
+  "description": "A professional web-based audio synthesizer featuring a JUCE-inspired UI, real-time Web Audio API sound generation, and AI-powered patch generation using Gemini.",
+  "requestFramePermissions": []
+}
